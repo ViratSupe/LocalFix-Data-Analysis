@@ -12,7 +12,7 @@ I built a custom Python pipeline to generate over 10,000 rows of relational mock
 
 ## 📊 The Dashboard
 *(Include a screenshot of your dashboard here! Upload the image to your repo, then replace the link below)*
-![LocalFix Dashboard](link_to_your_screenshot_here.png)
+![LocalFix Dashboard](dashboard_view.png)
 
 ## 💡 Key Business Insights
 * **Cancellation Bottlenecks:** Built custom DAX measures to compare `User Cancellation Rate` vs. `Provider Cancellation Rate` across specific service categories (e.g., Appliance Repair, Cleaning).
